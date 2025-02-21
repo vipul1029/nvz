@@ -60,4 +60,5 @@ function Header() {
 export default Header
 const Container=styled.div`
     height:100vh;
+    z-index:10;
     `
