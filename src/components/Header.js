@@ -41,7 +41,7 @@ function Header() {
         rightBtnText="Learn more"
         />
         <Section
-        title="Solar for ew Roofs"
+        title="Solar for New Roofs"
         description="Solar Roof Costs Less Than a New route"
         backgroundImg="solar-roof.jpg"
         leftBtnText="Order now"
